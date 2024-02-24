@@ -1,3 +1,11 @@
 import numpy as np
 
-# We are in the branch we are now in a new branch
+# Create a doubly linked list class
+# Create a sudoku_solver class
+
+class sudoku_solver:
+    pass 
+
+
+
+    
